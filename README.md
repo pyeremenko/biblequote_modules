@@ -4,7 +4,7 @@
 
 ### Переводы
 
-* [Русский синодальный текст с номерами Стронга](https://github.com/pyeremenko/biblequote_modules/blob/master/rst_strong.zip)
+* [Русский синодальный текст с номерами Стронга](https://github.com/pyeremenko/biblequote_modules/raw/master/rst_strong.zip)
 * [Современный перевод](https://github.com/pyeremenko/biblequote_modules/raw/master/modern.rar)
 
 ### Комментарии
